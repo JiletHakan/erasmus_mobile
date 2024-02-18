@@ -1,0 +1,20 @@
+{
+    "temperatures": {
+      "temperature1": 25.5,
+      "temperature2": 23.7,
+      "temperature3": 26.1
+    },
+    "locations": {
+      "latitude": 40.7128,
+      "longitude": -74.0060
+    },
+    "buttons_state": {
+      "button1": "pressed",
+      "button2": "not_pressed"
+    },
+    "leds_state": {
+      "isLedOn": true
+    },
+    "timestamp": 1639307284
+  }
+  

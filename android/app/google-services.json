@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "177178853396",
+    "firebase_url": "https://mobileapp-ba8ce-default-rtdb.firebaseio.com",
+    "project_id": "mobileapp-ba8ce",
+    "storage_bucket": "mobileapp-ba8ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177178853396:android:d1beab7719b523fe0ea701",
+        "android_client_info": {
+          "package_name": "com.example.mobile_erasmus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGGAqVU920rsKxvj8nWBHrZEg2V3z934o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

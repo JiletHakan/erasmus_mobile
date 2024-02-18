@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBinttCmjcF5VPFJHaM0baEycmaX0LSG_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>177178853396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mobileErasmus</string>
+	<key>PROJECT_ID</key>
+	<string>mobileapp-ba8ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobileapp-ba8ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:177178853396:ios:b8102ba56c7a5a3a0ea701</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobileapp-ba8ce-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
